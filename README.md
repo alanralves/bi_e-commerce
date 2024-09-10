@@ -1,7 +1,7 @@
 # Análise de Vendas de um E-commerce
 
 ## Descrição do Projeto
-Este projeto tem como objetivo analisar o desempenho de um e-commerce fictício.
+Este projeto tem como objetivo analisar o desempenho de um e-commerce.
 Após o tratamento dos dados, utilizei das funções DAX para a criação de medidas, montei as visualizações mais pertinentes e fiz a análise dos dados.
 
 **Objetivo:**
